@@ -1,0 +1,57 @@
+<?php include "includes/header.php"; ?>
+
+<!--Inner page header starts-->
+<div class="inner-header product-header kiosk py-9">
+  <div class="container pt-7">
+  	<div class="col-md-9">
+	    <h1 class="robo-bold white"><span>Kiosk <small>(Food ordering)</small></span></h1>
+	    <p class="robo-reg white">Alberta’s food ordering kiosk is the most economical & reliable technology in the market. The kiosk helps you control cost, improves order accuracy and reduces time taken to check out by taking customer orders to eliminate traditional processes and human error. <br><br> Our kiosk has proven to <strong>increase sales up to 15%</strong> by reducing walk-away’s from the line, and increase single order processing speed.</p>
+  	</div>
+  </div>
+</div>
+<!--Inner page header ends-->
+<div class="breadcrumbs">
+    <div class="container">
+      <p><span><a href="index.php">Home</a></span> <span><img src="img/arrow-point-to-right.png"></span> <span><a href="rms-pos.php">Retail management solutions / POS</a></span> <span><img src="img/arrow-point-to-right.png"></span> <span>kiosk food ordering</span></p>
+    </div>
+  </div>
+<!--Features Section-->
+<section class="prod-features kiosk-feat pt-7">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7">
+        <h3>
+          <span class="d-block robo-light">Key features of our</span>
+          <span class="robo-bold">Food ordering kiosk</span>
+        </h3>
+      </div>
+      <div class="col-md-5">
+        <div class="pro-features-text">
+          <ul>
+            <li>Reduced cost in operation</li>
+            <li>Add more varieties in your food menu</li>
+            <li>Eliminate soft theft</li>
+            <li>Quick ordering system for the customers</li>
+            <li>Appealing images of the food menu to entice customers</li>
+          </ul>
+          <a href="contact-us.php" class="c2a-btn">Ask for a demo!</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--Features Section-->
+
+<!--Sticky services-->
+<section class="sti-services">
+  <ul>
+    <li class="sticky-serv"><a href="verticals.php">Grocery Stores</a></li>
+    <li class="sticky-serv"><a href="verticals.php">Liquor Stores</a></li>
+    <li class="sticky-serv"><a href="verticals.php">Convenience Stores</a></li>
+    <li class="sticky-serv"><a href="verticals.php">Deli / Bakeries</a></li>
+  </ul>
+</section>
+
+<?php include "product-slider.php"; ?>
+
+<?php include "includes/footer.php"; ?>

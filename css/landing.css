@@ -1,0 +1,271 @@
+.land-head{
+    background-color: #636466;
+    padding: 2rem;
+}
+.land-phone{
+    color: #fff;
+    font-size: 2.5rem;
+    font-weight: 700;
+    border: 2px solid #fff;
+    padding: 0.25rem 0.5rem;
+    border-radius: 5px;
+    margin-top: 1rem;
+    display: inline-block;
+}
+.land-phone:hover{
+    color: #ccc;
+}
+.banner-sec{
+    background: url(../img/cards-bg.jpg) no-repeat;
+    height: 914px;
+    background-size: cover;
+}
+.banner-sec .col-md-4.align-self-end{
+    flex: 0 0 37.333333%;
+    max-width: 37.333333%;
+}
+.banner-sec form{
+    background-color: #296fb7;
+    padding: 0.4rem 1rem;
+    border-radius: 4px;
+}
+.banner-sec .prod-bord {
+    background: #fff;
+    border: 0;
+}
+.banner-sec .prod-bord legend{
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: #ff6000;
+}
+.banner-sec span.form-title {
+    display: inline-block;
+    color: #fff;
+    font-size: 1.3rem;
+    font-weight: 100;
+    padding: 1rem 1.75rem;
+}
+.banner-sec .form-control{
+    border-radius: 0;
+    height: 49px;
+    border: 0;
+}
+.banner-sec .mb-2, .my-2 {
+    margin-bottom: 1.25rem !important;
+}
+.banner-sec .input-group-text{
+    border: 0;
+    padding: 3px 0;
+}
+.banner-sec .btn-primary:hover {
+    color: #fff;
+    background-color: #e44a05;
+    border-color: #e44a05;
+}
+.banner-sec ul li{
+	list-style: none;
+	padding: 1.5rem 1rem;
+	font-weight: 600;
+}
+.banner-sec ul li a{
+	font-size: 18px;
+}
+.banner-sec ul li a:hover{
+	color: #ccc;
+}
+.banner-sec p.white{
+	font-size: 25px;
+	text-align: center;
+	padding: 2rem 0;
+}
+.banner-sec ul li img{
+	padding-right: 1rem;
+}
+.over-bg{
+    color: #fff;
+    background-color: #16a1dc;
+    width: 65%;
+    margin: 0 auto;
+    padding: 1rem;
+    margin-top: -10rem;
+}
+.over-bg h1{
+    font-weight: 400;
+    font-size: 2rem;
+    margin-top: 1rem;
+}
+.mid-fea h4.key-head{
+    font-weight: 400;
+    color: #16a1dc;
+    font-size: 1.8rem;
+}
+.mid-fea h4{
+    font-size: 1.1rem;
+    padding: 1rem;
+    font-weight: 700;
+}
+.mid-fea .col-md-4{
+    margin-bottom: 3rem;
+}
+/*.mid-quote{
+    background-color: #296fb7;
+}*/
+.mid-quote p{
+    margin: 1rem 0 0;
+    font-size: 2rem;
+    font-weight: 400;
+	color: #276fb7;
+}
+.mid-new p a{
+	color: #276fb7;
+}
+.ft-two{
+    position: relative;
+    right: -180px;
+    top: -80px;
+}
+.ft-three{
+    position: relative;
+    top: -160px;
+}
+.mid-new p{
+	color: #276fb7;
+	font-weight: 700;
+	font-size: 25px;
+	text-align: center;
+	padding: 1rem 0;
+}
+.foot-top, .foot-top .container{
+    position: relative;
+}
+.foot-top p{
+    font-size: 1.8rem;
+    font-weight: 700;
+    position: absolute;
+}
+.foot-top .ft-one p{
+    right: 0;
+    top: 15%;
+    left: 35%;
+}
+.foot-top .ft-two p{
+    right: 0;
+    top: 45%;
+    left: 35%;
+}
+.foot-top .ft-three p{
+    right: 0;
+    top: 45%;
+    left: 35%;
+}
+.more-btn{
+    background-color: #f26921;
+    color: #fff;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 1.1rem;
+    padding: 1rem 2rem;
+    border-radius: 15px;
+    display: inline-block;
+    position: relative;
+    top: -150px;
+}
+.banner-sec label.error{
+    color: #d0d0d0;
+    position: absolute;
+    font-size: 12px;
+    bottom: -25px;
+    color: #d0d0d0;
+}
+.pro-bund{
+	position: relative;
+	text-align: right;
+}
+.pro-bund img{
+	position: absolute;
+    top: -13rem;
+    right: 5rem;
+}
+
+@media (min-width:1280px){
+    .banner-sec form{
+        width: 70%;
+		position: absolute;
+		top: 0;
+		right: 0;
+		margin-top: 0;
+    }
+}
+
+@media (min-width:1600px){
+    .land-p .container{
+        max-width: 1240px;
+    }
+}
+
+@media (max-width: 1100px){
+	.banner-sec{
+		height: auto;
+	}
+	.banner-sec ul{
+		padding: 0;
+	}
+	.pro-bund img{
+		bottom: 1rem;
+		top: auto;
+		right: 0;
+	}
+}
+
+@media (max-width: 767px){
+    .land-phone{
+        font-size: 1.5rem;
+        display: block;
+        text-align: center;
+    }
+    .banner-sec .col-md-4.align-self-end{
+        flex: 0 0 90%;
+        max-width: 90%;
+    }
+    .over-bg{
+        width: 90%;
+    }
+    .over-bg h1 {
+        font-size: 1.1rem;
+    }
+    .ft-one, .ft-two, .ft-three, .foot-top p,.more-btn{
+        position: static;
+        text-align: center;
+    }
+    .more-btn{
+        margin-bottom: 2rem;
+    }
+	.pro-bund img{
+		position: relative;
+		bottom: 0;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 1199px){
+    .land-phone{
+        font-size: 1.5rem;
+    }
+    .banner-sec .col-md-4.align-self-end{
+        flex: 0 0 75%;
+        max-width: 75%;
+    }
+    .over-bg{
+        width: 100%;
+    }
+    .foot-top img{
+        width: 40%;
+    }
+    .foot-top p {
+        font-size: 1.2rem;
+    }
+    .foot-top .ft-one p,
+    .foot-top .ft-two p,
+    .foot-top .ft-three p{
+        left: 45%;
+    }
+}

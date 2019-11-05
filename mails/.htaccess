@@ -1,0 +1,3 @@
+RewriteEngine off
+#RewriteCond %{THE_REQUEST} /([^.]+)\.php [NC]
+#RewriteRule ^ /%1 [NC,L,R]

@@ -1,0 +1,261 @@
+<?php include('includes/meta.php'); ?>
+<!doctype html>
+<html amp lang="en">
+	<head>
+		<?php include('includes/head.php') ?>
+		
+		 <!-- <script async src="https://cdn.ampproject.org/v0.js"></script> -->
+         <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+         
+   		<script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+        
+	</head>
+	<body>
+        <?php include('includes/header.php'); ?>
+        <div class="inner-header about-header py-9">
+            <div class="container">
+                <h1 class="futurabold white">We Know You,<br>Because We Are You!</h1>
+                <p class="white">“We know where you come from!! Because we are you”. And we can help you from start up to windfall. </p>
+            </div>
+        </div>
+        <div class="breadcrumbs">
+            <div class="container">
+                <p><span><a href="index.php">Home</a></span> <span><amp-img height="12" width="12" src="../img/arrow-point-to-right.png"></amp-img></span> <span>About Us</span></p>
+            </div>
+        </div>
+        <section class="about-disp pt-4">
+            <div class="container text-center">
+ 	            <div class="disp-container">
+ 		            <p>“Alberta” was named after our first employee whose name was <b><i>Alberta.</i></b><br>
+ 		            Unfortunately, we lost her to cancer and decided to dedicate our company in her memory.</p>
+ 	            </div>
+            </div>
+        </section>
+        <section class="main-about">
+            <div class="container py-7">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2 class="futurabold"><span class="aqua">Experience</span><br>
+                        you can trust</h2>
+                        <p class="robo-light">Our journey started with owning and managing a small retail business. We shared the same hardships and issues as you at the start. So, we decided to tackle these challenges head on. Continue reading on our story…</p>
+                    </div>
+                    <div class="col-md-6 text-right">
+                        <amp-img height="429" width="500" layout="responsive" src="../img/trust-image.jpg" alt="Trust"></amp-img>
+                    </div>
+                </div>
+            </div>
+            <div class="passion-sec">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-5">
+                            <amp-img height="371" width="493" layout="responsive" src="../img/passion-image.jpg" alt="Passion"></amp-img>
+                        </div>
+                        <div class="col-md-7">
+                            <h2 class="futurabold"><span class="purple">Passion</span><br>
+                            you can count on</h2>
+                            <p class="robo-light">Our decision to tackle the retailer’s challenge head on and offer retail management solutions that makes economical and business sense, resulted in <span class="purple"><i>Alberta.</i></span></p>
+                            <p class="pt-3 robo-reg">We know you because we are you!!</p>
+                            <p class="robo-light">Not just because we have been retailers ourselves but also because we speak your language, share your culture and core values. </p>
+                        </div>
+                    </div>
+                </div>
+                </div>
+
+                <div class="values-sec">
+                    <div class="container py-7">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h2 class="futurabold"><span class="orange">Values</span><br>
+                                that stands out</h2>
+                            <p class="robo-light mb-4">Friendship encompasses characteristics such as trust, transparency, loyalty, empathy, willingness to help and reliability.</p>
+                            <p class="robo-light">We believe in building relationship with friendliness, trust and transparency.</p>
+                            </div>
+                            <div class="col-md-6 text-right">
+                                <a href="dosti.php"><amp-img height="354" width="472" layout="responsive" src="../img/dosti-sec.png" alt="Dosti"></amp-img></a>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+
+            </section>
+
+            <section class="dotted-display py-5">
+                <div class="container">
+                    <div class="col-md-10 mx-auto">
+                        <div class="dot-border text-center">
+                            <p class="robo-light">While others offer you just the service, we offer complete solutions to streamline your retail business, because we understand your business/challenges and not just the market.</p>
+                            <p class="robo-light purple">We invite you to become part of our journey, experience solutions the <i>‘ALBERTA WAY’!</i></p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--Main section ends-->
+
+            <!--Focus section-->
+            <section class="our-focus-bg">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 pl-15">
+                            <div class="foc-text">
+                                <h2 class="white text-uppercase"><span class="robo-light">Our</span> <span class="robo-black">focus</span></h2>
+                                <p class="robo-light white">Close the gap between retailer’s <br>challenges and the solutions</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 pl-15">
+                            <div class="foc-text foc-text-right">
+                                <h2 class="white text-uppercase"><span class="robo-light">Our</span> <span class="robo-black">ambition</span></h2>
+                                <p class="robo-light white">To make disruptive retail solutions affordable</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--Focus section-->
+
+            <!--Leadership section-->
+            <section class="leadership py-7">
+                <div class="container">
+                    <h2 class="aqua text-uppercase"><span class="robo-light">Meet the</span> <span class="robo-black">team Leadership</span></h2>
+                    <div class="leader-section">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="leader-img-bg lib-purple">
+                                    <!-- <amp-img height="100" width="100" src="../img/maun-patel.jpg" alt="Maun Patel"> -->
+                                    <div class="img-borders text-right">
+                                        <div class="outer-circles">
+                                            <div class="outer-border">
+                                                <div class="inner-border">
+                                                    <div class="dashed-img-bord">
+                                                    <amp-img height="378" width="378" layout="responsive" src="../img/maun-sm.jpg" alt="Maun Patel"></amp-img>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="name-role text-right">
+                                        <h3 class="robo-bold white">Maun Patel</h3>
+                                        <span class="robo-reg white">Business development and technology head</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="leader-text">
+                                    <p class="robo-reg">Maun Patel is a retail industry executive with more than 20 years of experience providing world class payment and technology solutions and innovations SMB merchant.</p>
+
+                                    <p class="robo-reg">His motto for life ‘Love what you do, never work for money! ’makes him a people’s person, and adds value to our work culture. Leading by examples he inspires a high performing culture that consistently delivers results & brings value to the organization and stakeholders. </p>
+
+                                    <p class="robo-reg">Starting with a single store, he gradually acquired 11 convenience stores and gas stations across New Jersey and New York areas. The challenges and frustrations that he faced along his retail journey across Petro, Liquor, C-Store and QSR laid foundations to the Alberta way. He was instrumental in building retail technologies that address unique needs of each vertical.</p>
+
+                                    <h5 class="robo-bold">Contributions:</h5>
+                                    <p class="robo-reg">Maun Patel brings his vast experience in retail industry and his ambitions in retail technologies and sets greater vision for Alberta. </p>
+
+                                    <h5 class="robo-bold">Personal: </h5>
+                                    <ul>
+                                        <li class="robo-reg">He enjoys discussing politics and watching sports event like cricket, football and NBA.</li>
+                                        <li class="robo-reg">Adventurous and always ready for outdoor activity make him connect with nature.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="leader-section">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="leader-img-bg lib-rose">
+                                    <!-- <amp-img height="100" width="100" src="../img/maun-patel.jpg" alt="Maun Patel"> -->
+                                    <div class="img-borders text-right">
+                                        <div class="outer-circles">
+                                            <div class="outer-border">
+                                                <div class="inner-border">
+                                                    <div class="dashed-img-bord">
+                                                        <amp-img class='outer-img'  height="378" width="378" src="../img/harpreet-sm.png" layout="responsive" alt="Harpreet"></amp-img>
+                                                     </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="name-role text-right">
+                                    <h3 class="robo-bold white">Harpreet</h3>
+                                    <span class="robo-reg white">Chief commercial officer</span>
+                                    </div>
+                                </div>
+                            </div>    
+                            <div class="col-md-6">
+                                    <div class="leader-text leader-text-r">
+                                        <p class="robo-reg">Harpreet is an executive leader in service industry performing dynamic roles to provide strategic directions in business scenario planning, product management and analytics. She is responsible for the commercial strategy and development of the organization. Her leadership includes pivotal decision-making in ambiguous situations, synthesis of complex customer/market insights into actionable priorities and re-define conventional wisdom.</p>
+
+                                        
+                                        <p class="robo-reg">She has held various positions including fortune 50 company, managing marketing strategy and execution of multibillion-dollar products through building innovative digital platforms, identifying business opportunities, generating actionable insights towards portfolio growth (incremental $100M). </p>
+                                        
+                                        <p class="robo-reg">In her own words “Let your character be your brand! …. Character is how you treat those who can do nothing for you!” defines her perfectly.</p>
+
+                                        <h5 class="robo-bold">Contributions:</h5>
+                                        <p class="robo-reg">While Maun brings retail experience and vision, Harpreet leads the path to achieving it with her experience, focused approach and knack for challenging the status quo.</p>
+
+                                        <h5 class="robo-bold">Personal: </h5>
+                                        <ul>
+                                            <li class="robo-reg">Harpreet likes to travel and experience different cultures and cuisines.</li>
+                                            <li class="robo-reg">She loves nature, hiking, biking, water rafting, zip lining and ATV rides.</li>
+                                            <li class="robo-reg">She has climbed  Mt. Kilimanjaro (the tallest in Africa) and Machu Picchu.</li>
+                                        </ul>
+                                        <h5 class="robo-bold">Volunteer: </h5>
+                                        <ul>
+                                            <li class="robo-reg">Serves as a business case assessor for undergraduate and graduate students on the Seton Hall School of Business panel.</li>
+                                            <li class="robo-reg">Serves on the women’s leadership team at Seton Hall University to help mentor young women.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                    </div>
+                </div>
+            <div class="tem-members pb-7">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="card light-red-bg text-center">
+                            <div class="card-top">
+                                <amp-img height="96" width="96" class="mx-auto" src="../img/simran.jpg" alt="Simaran"></amp-img>
+                                <h5 class="card-title">Simran Kaur</h5>
+                                <span>Customer service lead </span>
+                            </div>
+                                <div class="card-body">
+                                <p class="robo-reg white">Simran has been working in the service industry for 15+ years and is very passionate about providing excellent customer service. She believes in adding value to experiences the customer undergoes through the processes of sales and after-sales. A positive attitude gets her through even the toughest of the situation. Loves being around nature & very passionate about photography.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="card c-blue text-center">
+                            <div class="card-top">
+                                <amp-img height="96" width="96" class="mx-auto" src="../img/user-shyam.png" alt="Shyam"></amp-img>
+                                <h5 class="card-title">Shyam Patel</h5>
+                                <span>Head of Agent Partnership Program Engagement</span>
+                            </div>
+                                <div class="card-body">
+                                <p class="robo-reg white">Shyam is a young entrepreneur who has a strong passion for business. Growing up in the retail industry, he has first-hand experience in all facets of retail business whether its navigating the way for new business owners or helping merchants grow. He strives to innovate the retail industry using technology to streamline the process for the retailers and their customers. He lives and drives business by “ You have to believe it before you see it.” </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="card c-yellow text-center">
+                            <div class="card-top">
+                                <amp-img height="95" width="96" class="mx-auto" src="../img/umme.jpg" alt="Umme"></amp-img> 
+                                <h5 class="card-title">Ummehani Husain</h5>
+                                <span>Project manager</span>
+                            </div>
+                                <div class="card-body">
+                                <p class="robo-reg white">With over 8 years of diverse experience as a marketing specialist in financial services and technology industry, Ummehani has an impeccable & systematic approach towards work. Her emphasis on ‘need-based solutions’ promoting concept selling against product selling makes her great asset to any team. An avid traveler who loves to explore new cultures & connect with people. Love for food takes her to roads unknown and reading is always on top of her agenda.</p>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center my-3">
+            <a href="contact-us.php" class="c2a-btn">Ask for a demo!</a>
+            </div>
+            </section>
+        <?php include "includes/footer.php"; ?>
+    </body>
+</html>        

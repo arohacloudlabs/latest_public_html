@@ -1,0 +1,75 @@
+2018-02-24 15:37:41 - PHP Notice:  Undefined variable: edit_list in /home/portaluser/public_html/kiosk/view/template/kiosk/table_action_list.tpl on line 6
+2018-02-24 15:37:41 - PHP Notice:  Undefined variable: button_add in /home/portaluser/public_html/kiosk/view/template/kiosk/table_action_list.tpl on line 7
+2018-02-26 20:17:43 - PHP Notice:  Undefined index: filter_menuid in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1643
+2018-02-28 14:47:15 - PHP Warning:  file_get_contents(): Filename cannot be empty in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 713
+2018-02-28 14:47:15 - PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 716
+2018-02-28 14:47:15 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 717
+2018-02-28 14:47:15 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 718
+2018-02-28 14:47:15 - PHP Warning:  file_get_contents(): Filename cannot be empty in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 243
+2018-02-28 14:47:38 - PHP Notice:  Undefined index: imagehidden in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 709
+2018-02-28 14:47:38 - PHP Notice:  Undefined offset: 8 in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 713
+2018-02-28 14:47:38 - PHP Warning:  file_get_contents(): Filename cannot be empty in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 713
+2018-02-28 14:47:38 - PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 716
+2018-02-28 14:47:38 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 717
+2018-02-28 14:47:38 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 718
+2018-02-28 14:47:43 - PHP Notice:  Undefined offset: 8 in /home/portaluser/public_html/kiosk/model/kiosk/category.php on line 60
+2018-02-28 14:47:43 - PHP Notice:  Undefined index: imagehidden in /home/portaluser/public_html/kiosk/model/kiosk/category.php on line 76
+2018-03-12 13:36:05 - PHP Notice:  Undefined variable: page_seq in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1478
+2018-03-12 13:36:05 - PHP Notice:  Undefined offset: 1 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-12 13:36:05 - PHP Notice:  Undefined offset: 1 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-12 13:36:05 - PHP Notice:  Undefined offset: 1 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-12 13:36:06 - PHP Notice:  Undefined offset: 1 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-12 13:36:06 - PHP Notice:  Undefined offset: 1 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-12 13:36:06 - PHP Notice:  Undefined offset: 1 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-12 13:36:19 - PHP Notice:  Undefined offset: 1 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-12 13:36:19 - PHP Notice:  Undefined offset: 1 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-12 13:36:19 - PHP Notice:  Undefined offset: 1 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-12 14:09:23 - PHP Notice:  Undefined offset: 5 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-12 14:09:23 - PHP Notice:  Undefined offset: 5 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-12 14:09:23 - PHP Notice:  Undefined offset: 5 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-12 14:13:31 - PHP Notice:  Undefined offset: 3 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-12 14:13:31 - PHP Notice:  Undefined offset: 3 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-12 14:13:31 - PHP Notice:  Undefined offset: 3 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-12 14:13:34 - PHP Notice:  Undefined offset: 3 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-12 14:13:34 - PHP Notice:  Undefined offset: 3 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-12 14:13:34 - PHP Notice:  Undefined offset: 3 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-23 12:48:08 - PHP Notice:  Undefined offset: 3 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-23 12:48:08 - PHP Notice:  Undefined offset: 3 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-23 12:48:08 - PHP Notice:  Undefined offset: 3 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-23 12:48:12 - PHP Notice:  Undefined offset: 3 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-23 12:48:12 - PHP Notice:  Undefined offset: 3 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-03-23 12:48:12 - PHP Notice:  Undefined offset: 3 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-04-13 9:40:33 - PHP Notice:  Undefined offset: 2 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-04-13 9:40:33 - PHP Notice:  Undefined offset: 2 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-04-13 9:40:33 - PHP Notice:  Undefined offset: 2 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-04-13 10:36:40 - PHP Notice:  Undefined offset: 1 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-04-13 10:36:40 - PHP Notice:  Undefined offset: 1 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-04-13 10:36:40 - PHP Notice:  Undefined offset: 1 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-04-13 10:36:42 - PHP Notice:  Undefined variable: page_seq in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1478
+2018-04-13 10:36:42 - PHP Notice:  Undefined offset: 1 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-04-13 10:36:42 - PHP Notice:  Undefined offset: 1 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-04-13 10:36:42 - PHP Notice:  Undefined offset: 1 in /home/portaluser/public_html/kiosk/controller/kiosk/page_flow.php on line 1488
+2018-04-13 10:51:32 - PHP Notice:  Undefined index: itemseq in /home/portaluser/public_html/kiosk/model/kiosk/page_flow.php on line 546
+2018-04-13 10:51:32 - PHP Warning:  Invalid argument supplied for foreach() in /home/portaluser/public_html/kiosk/model/kiosk/page_flow.php on line 549
+2018-04-16 17:19:05 - PHP Notice:  Undefined variable: category in /home/portaluser/public_html/kiosk/view/template/kiosk/category_list.tpl on line 117
+2018-04-16 17:19:05 - PHP Notice:  Undefined variable: category in /home/portaluser/public_html/kiosk/view/template/kiosk/category_list.tpl on line 120
+2018-04-17 13:26:34 - PHP Notice:  Undefined variable: category in /home/portaluser/public_html/kiosk/view/template/kiosk/category_list.tpl on line 117
+2018-04-17 13:26:34 - PHP Notice:  Undefined variable: category in /home/portaluser/public_html/kiosk/view/template/kiosk/category_list.tpl on line 120
+2018-04-17 13:27:07 - PHP Warning:  file_get_contents(): Filename cannot be empty in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 713
+2018-04-17 13:27:07 - PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 716
+2018-04-17 13:27:07 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 717
+2018-04-17 13:27:07 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 718
+2018-04-17 13:32:57 - PHP Notice:  Undefined variable: category in /home/portaluser/public_html/kiosk/view/template/kiosk/category_list.tpl on line 117
+2018-04-17 13:32:57 - PHP Notice:  Undefined variable: category in /home/portaluser/public_html/kiosk/view/template/kiosk/category_list.tpl on line 120
+2018-11-26 15:09:24 - PHP Notice:  Undefined variable: category in /home/portaluser/public_html/kiosk/view/template/kiosk/category_list.tpl on line 117
+2018-11-26 15:09:24 - PHP Notice:  Undefined variable: category in /home/portaluser/public_html/kiosk/view/template/kiosk/category_list.tpl on line 120
+2018-11-26 15:09:39 - PHP Warning:  file_get_contents(): Filename cannot be empty in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 713
+2018-11-26 15:09:39 - PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 716
+2018-11-26 15:09:39 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 717
+2018-11-26 15:09:39 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 718
+2018-11-26 15:34:20 - PHP Notice:  Undefined variable: category in /home/portaluser/public_html/kiosk/view/template/kiosk/category_list.tpl on line 117
+2018-11-26 15:34:20 - PHP Notice:  Undefined variable: category in /home/portaluser/public_html/kiosk/view/template/kiosk/category_list.tpl on line 120
+2018-11-26 15:34:30 - PHP Warning:  file_get_contents(): Filename cannot be empty in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 713
+2018-11-26 15:34:30 - PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 716
+2018-11-26 15:34:30 - PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 717
+2018-11-26 15:34:30 - PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/portaluser/public_html/kiosk/controller/kiosk/category.php on line 718
